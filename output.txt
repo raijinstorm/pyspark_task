@@ -1,0 +1,21 @@
++-------------+----------+
+|category_name|film_count|
++-------------+----------+
+|Drama        |152       |
+|Music        |152       |
+|Travel       |151       |
+|Games        |150       |
+|Foreign      |150       |
+|Children     |150       |
+|Action       |149       |
+|Sci-Fi       |149       |
+|Animation    |148       |
+|Classics     |147       |
+|New          |147       |
+|Family       |147       |
+|Documentary  |145       |
+|Sports       |145       |
+|Comedy       |143       |
+|Horror       |142       |
++-------------+----------+
+
